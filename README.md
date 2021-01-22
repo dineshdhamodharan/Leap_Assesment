@@ -1,5 +1,3 @@
-# Leap_Assesment
-Leap _ Assessment For the Purpose of my interview - this analysis is completely about the A/B testing and  binomial Distribution and baye's theorem
 # Data Science Application Test
 
 In this test, we would like you to write up an analysis about a mock experiment. We aim to measure your current knowledge in Data Cleaning, Exploratory Data Analysis and Drawing Conclusions from observations.
